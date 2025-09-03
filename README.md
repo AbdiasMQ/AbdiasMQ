@@ -14,7 +14,7 @@
 
 🚀 Me gusta desarrollar proyectos que me desafíen y me ayuden a seguir creciendo como **desarrollador**, aprendiendo cada día un poco más.  
 
-📫 Contacto: **mamaniquirogaabdias@gmail,com**
+📫 Contacto: **mamaniquirogaabdias@gmail.com**
   </p>
 <br>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
