@@ -7,8 +7,6 @@
 
 <br>
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
 <p align="left">
 👨‍💻 Soy estudiante de segundo año en **Desarrollo de Software**, apasionado por aprender a programar y crear cosas nuevas.  
 
@@ -16,14 +14,13 @@
 
 🚀 Me gusta desarrollar proyectos que me desafíen y me ayuden a seguir creciendo como **desarrollador**, aprendiendo cada día un poco más.  
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **mamaniquirogabadias@gmail,com**
   </p>
 <br>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,sqlite,git,github,linux,django" />
+    <img src="https://skillicons.dev/icons?i=css3,html5,js,mysql,sqlite,git,github,linux,django" />
   </a>
 </p>
-<br>
